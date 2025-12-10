@@ -42,6 +42,21 @@ Planasa es líder internacional en **genética vegetal de berries**, investigaci
 
 ---
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Sostenibilidad-%F0%9F%8C%B1-green?style=for-the-badge&color=1fa453" />
+<img src="https://img.shields.io/badge/Agricultura%20Responsable-%F0%9F%8C%BE-success?style=for-the-badge&color=27ae60" />
+<img src="https://img.shields.io/badge/Innovación%20Sostenible-%E2%9A%9B%EF%B8%8F-green?style=for-the-badge&color=2ecc71" />
+<img src="https://img.shields.io/badge/Reducción%20de%20Agroquímicos-%E2%9C%85-green?style=for-the-badge&color=43a047" />
+<img src="https://img.shields.io/badge/Eficiencia%20Hídrica-%F0%9F%92%A7-green?style=for-the-badge&color=1e8a4f" />
+<img src="https://img.shields.io/badge/Innovación%20en%20IA-%F0%9F%A4%96-green?style=for-the-badge&color=3aa76d" />
+<img src="https://img.shields.io/badge/Cuidado%20del%20Planeta-%F0%9F%8C%8D-green?style=for-the-badge&color=2ecc71" />
+
+</p>
+
+---
+
+
 ## <div align="center">🚀 Tecnología aplicada a agricultura</div>
 
 <p align="center">Tecnología integrada para mejorar rendimiento, sostenibilidad y productividad.</p>
