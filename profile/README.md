@@ -205,7 +205,6 @@ Imágenes satelitales de <strong>alta resolución</strong> y <strong>drones</str
 
 <div align="center">
 
-📧 digital@planasa.com  
 🌍 https://planasa.com  
 🔗 https://linkedin.com/company/planasa  
 
