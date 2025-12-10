@@ -216,6 +216,46 @@ Imágenes satelitales de <strong>alta resolución</strong> y <strong>drones</str
 
 ---
 
+## <div align="center">🌍 Compromiso con los Objetivos de Desarrollo Sostenible</div>
+
+<p align="center">
+Planasa contribuye activamente a objetivos globales de sostenibilidad mediante prácticas agrícolas responsables, innovación aplicada y datos para la toma de decisiones eficientes.
+</p>
+
+<br/>
+
+<p align="center">
+
+<!-- ODS 2 Hambre cero -->
+<a href="https://www.un.org/sustainabledevelopment/es/hunger/">
+<img src="https://img.shields.io/badge/ODS%202%20-%20Hambre%20Cero-yellow?style=for-the-badge&logo=united-nations&logoColor=white" />
+</a>
+
+<!-- ODS 12 Producción y consumo responsables -->
+<a href="https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/">
+<img src="https://img.shields.io/badge/ODS%2012%20-%20Producción%20Responsable-orange?style=for-the-badge&logo=united-nations&logoColor=white" />
+</a>
+
+<!-- ODS 13 Acción por el clima -->
+<a href="https://www.un.org/sustainabledevelopment/es/climate-change/">
+<img src="https://img.shields.io/badge/ODS%2013%20-%20Acción%20por%20el%20Clima-green?style=for-the-badge&logo=united-nations&logoColor=white" />
+</a>
+
+<!-- ODS 15 Vida de ecosistemas terrestres -->
+<a href="https://www.un.org/sustainabledevelopment/es/biodiversity/">
+<img src="https://img.shields.io/badge/ODS%2015%20-%20Vida%20Terrestre-green?style=for-the-badge&logo=united-nations&logoColor=white" />
+</a>
+
+</p>
+
+<br/>
+
+<p align="center">
+Pequeñas mejoras globales en producción responsable, reducción de impacto ambiental y uso eficiente del agua contribuyen a proteger ecosistemas, alimentar a la población y promover una agricultura sostenible a escala internacional.
+</p>
+
+---
+
 ## <div align="center">✉ Contacto</div>
 
 <div align="center">
