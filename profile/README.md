@@ -44,18 +44,37 @@ Planasa es líder internacional en **genética vegetal de berries**, investigaci
 
 <p align="center">
 
+<a href="https://planasa.com" target="_blank">
 <img src="https://img.shields.io/badge/Sostenibilidad-%F0%9F%8C%B1-green?style=for-the-badge&color=1fa453" />
+</a>
+
+<a href="https://planasa.com" target="_blank">
 <img src="https://img.shields.io/badge/Agricultura%20Responsable-%F0%9F%8C%BE-success?style=for-the-badge&color=27ae60" />
+</a>
+
+<a href="https://planasa.com" target="_blank">
 <img src="https://img.shields.io/badge/Innovación%20Sostenible-%E2%9A%9B%EF%B8%8F-green?style=for-the-badge&color=2ecc71" />
+</a>
+
+<a href="https://planasa.com" target="_blank">
 <img src="https://img.shields.io/badge/Reducción%20de%20Agroquímicos-%E2%9C%85-green?style=for-the-badge&color=43a047" />
+</a>
+
+<a href="https://planasa.com" target="_blank">
 <img src="https://img.shields.io/badge/Eficiencia%20Hídrica-%F0%9F%92%A7-green?style=for-the-badge&color=1e8a4f" />
+</a>
+
+<a href="https://planasa.com" target="_blank">
 <img src="https://img.shields.io/badge/Innovación%20en%20IA-%F0%9F%A4%96-green?style=for-the-badge&color=3aa76d" />
+</a>
+
+<a href="https://planasa.com" target="_blank">
 <img src="https://img.shields.io/badge/Cuidado%20del%20Planeta-%F0%9F%8C%8D-green?style=for-the-badge&color=2ecc71" />
+</a>
 
 </p>
 
 ---
-
 
 ## <div align="center">🚀 Tecnología aplicada a agricultura</div>
 
@@ -152,8 +171,8 @@ IA Generativa · Machine Learning · Computer Vision · Realidad Aumentada · Di
 <p><strong>Desde 2021</strong></p>
 
 <p align="justify">
-Planasa impulsa globalmente la producción responsable de plantas mediante tecnologías IoT aplicadas en cuatro verticales: <strong>invernadero, frío, campo abierto y riego</strong>. 
-La monitorización en tiempo real optimiza el manejo integral de recursos.
+Planasa impulsa producción responsable de plantas mediante tecnologías IoT aplicadas en cuatro verticales: <strong>invernadero, frío, campo abierto y riego</strong>. 
+La monitorización en tiempo real optimiza el manejo integral de recursos. :contentReference[oaicite:1]{index=1}
 </p>
 
 ---
@@ -174,7 +193,7 @@ La monitorización en tiempo real optimiza el manejo integral de recursos.
 <p><strong>Desde 2023</strong></p>
 
 <p align="justify">
-Modelos de predicción basados en <strong>IA para invernaderos</strong> que optimizan la eficiencia operativa. La anticipación de incidencias minimiza el uso de recursos naturales y reduce el desperdicio alimentario.
+Modelos de predicción basados en <strong>IA para invernaderos</strong> que optimizan la eficiencia operativa.
 </p>
 
 ---
@@ -196,7 +215,7 @@ Modelos de predicción basados en <strong>IA para invernaderos</strong> que opti
 <p><strong>Desde 2022</strong></p>
 
 <p align="justify">
-Imágenes satelitales de <strong>alta resolución</strong> y <strong>drones</strong> integrados con infraestructura IoT. Permite análisis en tiempo real, detección temprana de plagas y toma de decisiones agronómicas precisas.
+Imágenes satelitales de alta resolución y drones integrados con IoT permiten análisis en tiempo real, detección temprana de plagas y decisiones precisas.
 </p>
 
 ---
@@ -226,23 +245,19 @@ Planasa contribuye activamente a objetivos globales de sostenibilidad mediante p
 
 <p align="center">
 
-<!-- ODS 2 Hambre cero -->
-<a href="https://www.un.org/sustainabledevelopment/es/hunger/">
+<a href="https://www.un.org/sustainabledevelopment/agriculture/" target="_blank">
 <img src="https://img.shields.io/badge/ODS%202%20-%20Hambre%20Cero-yellow?style=for-the-badge&logo=united-nations&logoColor=white" />
 </a>
 
-<!-- ODS 12 Producción y consumo responsables -->
-<a href="https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/">
+<a href="https://www.un.org/sustainabledevelopment/sustainable-consumption-production/" target="_blank">
 <img src="https://img.shields.io/badge/ODS%2012%20-%20Producción%20Responsable-orange?style=for-the-badge&logo=united-nations&logoColor=white" />
 </a>
 
-<!-- ODS 13 Acción por el clima -->
-<a href="https://www.un.org/sustainabledevelopment/es/climate-change/">
+<a href="https://www.un.org/sustainabledevelopment/climate-change/" target="_blank">
 <img src="https://img.shields.io/badge/ODS%2013%20-%20Acción%20por%20el%20Clima-green?style=for-the-badge&logo=united-nations&logoColor=white" />
 </a>
 
-<!-- ODS 15 Vida de ecosistemas terrestres -->
-<a href="https://www.un.org/sustainabledevelopment/es/biodiversity/">
+<a href="https://www.un.org/sustainabledevelopment/biodiversity/" target="_blank">
 <img src="https://img.shields.io/badge/ODS%2015%20-%20Vida%20Terrestre-green?style=for-the-badge&logo=united-nations&logoColor=white" />
 </a>
 
@@ -251,7 +266,7 @@ Planasa contribuye activamente a objetivos globales de sostenibilidad mediante p
 <br/>
 
 <p align="center">
-Pequeñas mejoras globales en producción responsable, reducción de impacto ambiental y uso eficiente del agua contribuyen a proteger ecosistemas, alimentar a la población y promover una agricultura sostenible a escala internacional.
+Pequeñas mejoras globales en producción responsable, reducción de impacto ambiental y uso eficiente del agua contribuyen a proteger ecosistemas, alimentar a la población y promover una agricultura sostenible a escala internacional. :contentReference[oaicite:2]{index=2}
 </p>
 
 ---
@@ -261,7 +276,7 @@ Pequeñas mejoras globales en producción responsable, reducción de impacto amb
 <div align="center">
 
 🌍 https://planasa.com  
-🔗 https://linkedin.com/company/planasa  
+🔗 https://linkedin.com/company/planasa
 
 </div>
 
